@@ -15,7 +15,7 @@ class PollReader():
         We have implemented this for you. You should not need to modify it.
         """
 
-        # this is used to get the base path that this Python file is in in an
+        #seeing if this works
         # OS agnostic way since Windows and Mac/Linux use different formats
         # for file paths, the os library allows us to write code that works
         # well on any operating system
